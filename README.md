@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm THÌRUMALAIVASAN.S</h1>
 <h3 align="center">A passionate Computer Vision Engineer from India👯</h3>
-<img width =400 src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Coding">
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasan4" alt="thirumalaivasan4" /></a> </p>
 <img align="right"src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
@@ -14,14 +12,15 @@
 - 👯 I’m looking to collaborate on [JARVIS](https://github.com/Thirumalaivasan4/Project-on-Jarvis-AI/tree/main/CV)
 
 - 💬 Ask me Anything About.. **COMPUTER VISION AND AI....**
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlMEn0SX59B5a8CBwCIDtvHfm7NSVHitPGA&s
-)]
+
+<img align="right" width =400 src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Coding">
+
 - 📫 How to reach me **thirumalaivasanengineer@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ym5QImqbEklxCahFqPcX7-wS1g1D2VhV/view?usp=drive_link](https://drive.google.com/file/d/1Ym5QImqbEklxCahFqPcX7-wS1g1D2VhV/view?usp=drive_link)
 
 - ⚡ Fun fact **SOLVING A LEETCODE PROBLEM DAILY KEEPS YOUR DEPRESSINON AWAY...!**
-<img width =400 src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Coding">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirumalaivasan4&label=Profile%20views&color=0e75b6&style=flat" alt="thirumalaivasan4" /> </p>
