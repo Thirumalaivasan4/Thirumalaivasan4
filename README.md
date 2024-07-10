@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm THÌRUMALAIVASAN.S</h1>
 <h3 align="center">A passionate Computer Vision Engineer from India👯</h3>
-<img width =400 src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirumalaivasan4&label=Profile%20views&color=0e75b6&style=flat" alt="thirumalaivasan4" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thirumalaivasan4" alt="thirumalaivasan4" /></a> </p>
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **Problem Solving With DSA,Computer Vision & AI ,MERN Stack....**
 
-- 👯 I’m looking to collaborate on [JARVIS](https://github.com/Thirumalaivasan4/Project-on-Jarvis-AI/tree/main/CV)
+- 👯 I’m looking to collaborate on [VIRTUAL WORLD](https://github.com/Thirumalaivasan4/Project-on-Jarvis-AI/tree/main/CV)
 
 - 💬 Ask me Anything About.. **COMPUTER VISION AND AI....**
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHlMEn0SX59B5a8CBwCIDtvHfm7NSVHitPGA&s
